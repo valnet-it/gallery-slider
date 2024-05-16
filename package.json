@@ -1,5 +1,5 @@
 {
-  "name": "@valnet-it/gallery-slider",
+  "name": "gallery-slider",
   "version": "1.0.0",
   "description": "Galleriy of iamges",
   "main": "index.js",
